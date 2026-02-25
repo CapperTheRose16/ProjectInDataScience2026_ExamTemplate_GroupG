@@ -2,7 +2,7 @@
 
 
 #### Contributers
-Group G members: Casper Egund Rosendal (Github Username: CapperTheRose16)(ITU: egcr), Søren Ho Larsen (Github Username:sohl1008) (ITU: sohl), Alexandra Iovu (alio@itu.dk ; sannda-v), Mojtaba Ahmadian (Github Username: Mojtaba13850) (ITU: mojt), Manas Aliveli (Github Username: manasaliveli-ux)(ITU: manal)
+Group G members: Casper Egund Rosendal (Github Username: CapperTheRose16)(ITU: egcr), Søren Ho Larsen (Github Username:sohl1008) (ITU: sohl), Alexandra Iovu (alio@itu.dk ; sannda-v), Mojtaba Ahmadian (Github Username: Mojtaba13850) (ITU: mojt), Manas Aliveli (Github Username: manasaliveli-ux)(ITU: manal), Mihnea-Ioan Iancu (Github Username: mihnea2020) (ITU: miia)
 
 
 #### File Hierarchy
