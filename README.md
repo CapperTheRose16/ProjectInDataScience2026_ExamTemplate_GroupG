@@ -11,7 +11,7 @@ If you are using general Github, you can clone or fork the repository directly.
 Your repository MUST be named 2026-PDS-XX where XX is your group name (e.g. 2026-PDS-Pandas). 
 
 #### Contributers
-Group G members: Casper Egund Rosendal (egcr), Søren Ho Larsen (sohl)
+Group G members: Casper Egund Rosendal (egcr), Søren Ho Larsen (sohl), Alexandra Iovu(alio)
 
 
 #### Python environment
